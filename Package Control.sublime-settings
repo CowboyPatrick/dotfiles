@@ -12,7 +12,6 @@
 		"Babel",
 		"BracketHighlighter",
 		"Color Highlight",
-		"ColorHighlight",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
@@ -21,6 +20,7 @@
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-flake8",
 		"SublimeLinter-rubocop"
 	]
 }
